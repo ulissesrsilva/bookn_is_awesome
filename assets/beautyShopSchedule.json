@@ -1,0 +1,6 @@
+{
+  "name": "Brazilian Beauty Shop",
+  "period": "45",
+  "workingHours": { "start": "9:00", "end": "16:00" },
+  "existingServices": [{ "start": "13:30", "end": "14:15" }]
+}

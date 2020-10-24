@@ -1,0 +1,5 @@
+{
+  "name": "Bar One",
+  "period": "60",
+  "workingHours": { "start": "17:00", "end": "23:00" }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Aba Shop",
+  "period": "40",
+  "workingHours": { "start": "9:00", "end": "16:00" },
+  "existingServices": [
+    { "start": "11:00", "end": "14:20" },
+    { "start": "14:20", "end": "15:00" }
+  ]
+}
